@@ -1,1 +1,1 @@
-# GansatFun
+# GanstaFun repo for learning Auotmation.
