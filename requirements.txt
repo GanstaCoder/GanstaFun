@@ -1,3 +1,4 @@
 '''
 All the packages are going here. Easy keep track and install in the future.
 '''
+selenium~=4.1.0
