@@ -1,5 +1,5 @@
 '''
-All the packages are going here. Easy keep track and install in the future.
+All the packages are going here. Easy to keep track of it and install in the future.
 '''
 selenium~=4.1.0
 pytest~=7.0.1
